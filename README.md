@@ -33,10 +33,4 @@ Use [Tool Graph API Explorer](https://developers.facebook.com/tools/explorer/) f
 
 Use [this](https://developers.facebook.com/docs/graph-api/overview) link for understand how get facebook access token.
 
-## Copyright and License
 
-©2018 de Simone Pasqualino (pasalino). All Rights Reserved. 
-
-## Contributor
-
-* [Federico Blancato](https://github.com/ksnll)
